@@ -24,7 +24,7 @@ nav = [
 [project.theme]
 # variant = "modern"
 # custom_dir = "overrides"
-# favicon = "images/favicon.png"
+favicon = "images/branding/favicon.png"
 language = "en"
 features = [
   "announce.dismiss",
@@ -55,10 +55,10 @@ features = [
   # "toc.integrate",
 ]
 
-# logo = "assets/logo.png"
+# logo = "images/branding/logo.png"
 
-# [project.theme.icon]
-# logo = "lucide/smile"
+[project.theme.icon]
+logo = "lucide/flame"
 
 # [project.theme.font]
 # text = "Inter"
