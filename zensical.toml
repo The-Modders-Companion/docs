@@ -13,6 +13,7 @@ site_name = "The Modder's Companion"
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
+  { "Blog" = ["blog/index.md"] },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
@@ -116,3 +117,5 @@ pymdownx.tabbed.alternate_style = true
 pymdownx.tabbed.combine_header_slug = true
 pymdownx.tasklist.custom_checkbox = true
 pymdownx.tilde = {}
+
+[project.plugins.blog]
