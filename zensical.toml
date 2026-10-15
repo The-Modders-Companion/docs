@@ -11,10 +11,15 @@ site_name = "The Phoenix Flavour"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = [
-   "index.md" ,
-   "markdown.md",
-] },
+  { "Resources" = [
+    "resources/index.md",
+        { "Site" = [
+          "resources/site/index.md",
+          { "Zensical" = "resources/site/zensical.md" },
+          { "Markdown" = "resources/site/markdown.md" }, 
+          { "Get Started" = "resources/site/get-started.md" },
+        ] },
+  ] },
   { "Blog" = ["blog/index.md"] },
 ]
 
