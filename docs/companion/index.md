@@ -1,6 +1,30 @@
 **The Modder's Companion** is a guide to modding Skyrim. Unlike conventional guides, the *Companion* does not instruct you to install a pre-determined set of mods but helps you make your own choices and build a custom setup. The *Companion* is ^^not^^ a guide to creating mods.
 
-Before we proceed, I strongly recommend you read my Primer on modding Skyrim. The Primer provides an introduction to modding Skyrim and explains different approaches. By the end of the article, you will be able to an informated choice on how to proceed - with the *Companion* or elsewhere. 
+## The Primer
+
+Before we proceed, **I strongly recommend you read my Primer on modding Skyrim**. The Primer explains important terminology and outlines different approaches to acquiring a custom setup. By the end of the article, you will be able to an informed choice on how to proceed - with the *Companion* or elsewhere.
+
+:arrow_right: **[Read the Primer](introduction/primer.md)**
+
+## The Companion
+
+Still here and interested in using the *Companion*? Fantastic! Keep reading for some final notes and clarifications before we properly jump into the guide.
+
+### Target Audience
+
+The Modder's Companion is geared towards new and experienced modders who are interested in building a **complex** setup. By that I mean a high-quality setup that is stable, consistent, and performant. The purpose of the *Companion* is to provide you with the knowledge and skills necessary to accomplish that, skipping months of painful trial and error. As a result, there are many details that very casual mod users will consider superfluous.
+
+### Structure
+
+As the guide is a work in progress (see the next section for details), so is the structure.
+
+- **Foundation:** This section focuses on the initial setup and creation of a solid workbase to build on afterwards. The *Foundation* is the most strictly guided part and should come in handy for anyone looking to build a new setup from scratch.
+- **Modding Basics:** This section provides an interactive introduction to basic modding knowledge, using the workbase created previously. Following this section is optional but highly recommended.
+- **The Sandbox:** This section provides guidance on the real meat of the setup - selecting, testing, and modifying mods.
+
+### The State of the Guide
+
+### About Me
 
 ## A quick Q&A
 
