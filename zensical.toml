@@ -1,13 +1,13 @@
 [project]
 site_url = "https://the-modders-companion.github.io/docs/"
 site_name = "The Phoenix Flavour"
-# site_description = "Your project description"
-# site_author = "Phoenix"
+site_description = "Your project description"
+site_author = "Phoenix"
 
-# copyright = "Copyright &copy; 2026 Phoenix"
+copyright = "Copyright &copy; 2026 Phoenix"
 
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
+repo_url = "https://github.com/The-Modders-Companion/docs"
+repo_name = "The-Modders-Companion/docs"
 # edit_uri = "edit/main/docs/"
 
 # extra_css = ["stylesheets/extra.css"]
@@ -15,7 +15,7 @@ site_name = "The Phoenix Flavour"
 
 [project.theme]
 # variant = "modern"
-# custom_dir = "overrides"
+custom_dir = "overrides"
 favicon = "images/branding/favicon.png"
 language = "en"
 features = [
@@ -43,7 +43,7 @@ features = [
   "navigation.top",
   "navigation.tracking",
   "search.highlight",
-  # "toc.follow",
+  "toc.follow",
   # "toc.integrate",
 ]
 
@@ -53,7 +53,7 @@ features = [
 logo = "lucide/flame"
 
 # [project.theme.font]
-# text = "Inter"
+text = "Inter"
 # code = "Jetbrains Mono"
 
 [[project.theme.palette]]
@@ -75,13 +75,13 @@ accent = "orange"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/The-Modders-Companion/docs"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/mastodon"
-# link = "https://fosstodon.org/@user"
+[[project.extra.social]]
+icon = "custom/nexusmods"
+link = "https://nexusmods.com/profile/Phoenix"
 
 [project.markdown_extensions]
 abbr = {}
@@ -97,6 +97,9 @@ pymdownx.caret = {}
 pymdownx.details = {}
 pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
 pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
+pymdownx.emoji.options.custom_icons = [
+  "overrides/.icons",
+]
 pymdownx.highlight.anchor_linenums = true
 pymdownx.highlight.line_spans = "__span"
 pymdownx.highlight.pygments_lang_class = true
