@@ -26,7 +26,7 @@ The terminal will open.
 - Finally, confirm to install the latest version of Python.
 - Restart your PC.
 
-![Python Setup](images/resources/site/python-setup.png)
+![Python Setup](python-setup.png)
 
 ### Cloning the repository
 
