@@ -1,4 +1,3 @@
 nav:
-  - Introduction:
-    - Introduction: index.md
-    - introduction/philosophy.md 
+  - Introduction: index.md
+  - Modding Skyrim - A Primer: introduction/primer.md 
