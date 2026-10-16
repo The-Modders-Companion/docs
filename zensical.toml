@@ -10,19 +10,6 @@ site_name = "The Phoenix Flavour"
 # repo_name = "user/repo"
 # edit_uri = "edit/main/docs/"
 
-nav = [
-  { "Resources" = [
-    "resources/index.md",
-        { "Site" = [
-          "resources/site/index.md",
-          { "Zensical" = "resources/site/zensical.md" },
-          { "Markdown" = "resources/site/markdown.md" }, 
-          { "Get Started" = "resources/site/get-started.md" },
-        ] },
-  ] },
-  { "Blog" = ["blog/index.md"] },
-]
-
 # extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
 
@@ -128,3 +115,4 @@ pymdownx.tasklist.custom_checkbox = true
 pymdownx.tilde = {}
 
 [project.plugins.blog]
+[project.plugins.awesome-nav]
