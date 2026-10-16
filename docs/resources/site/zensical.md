@@ -79,12 +79,30 @@ We will continue with importing the present site.
     -  *Make sure this file does not have a TXT file extension.*
 - Open your `.gitignore` in Notepad or similar and paste the following:
 
-```
+```yaml
 .venv/
-site/
+/site/ #(1)!
 ```
 
+1. Starting with a backslash is necessary to specify the top-level `site` folder and avoid excluding any other folders with the same name.
+
 - Save and close the file.
+
+## Updating Zensical
+
+Instructions on how to update Zensical can be found on the [official website](https://zensical.org/docs/upgrade/) and the changelog is [here](https://github.com/zensical/zensical/releases).
+
+To check the currently installed version, run:
+
+```
+pip show zensical
+```
+
+To update Zensical, run:
+
+```
+pip install --upgrade --force-reinstall zensical
+```
 
 
 ## Plugins
