@@ -1,11 +1,11 @@
 ---
-icon: material/rocket-launch
+icon: simple/zensical
 ---
 # Zensical
 
 My website is powered by [Zensical](https://zensical.org/), a static site generator. Zensical was created by the team behind [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and is geared toward documentation sites. Currently, Zensical is in alpha.
 
-This page explains how to set up Zensical and this website on a new machine.
+This page explains how to set up Zensical and this website on a new machine. It is mostly for my personal benefit ~~because my brain consists of swiss cheese~~.
 
 ## How to set up the site
 
@@ -18,12 +18,11 @@ You can skip this step if you have already installed Python on your PC.
 - Download the latest version of [Python for Windows](https://www.python.org/downloads/) from the official website.
 - Run the downloaded file to install Python.
 
-The terminal will open. 
+The terminal will open (see the screenshot below).
 
-- If prompted: Enable long path support. 
-- If prompted: Do not add Python to PATH.
-    -  *I initially did add Python but this should not be necessary because we run Python from a virtual environment.*
-- Finally, confirm to install the latest version of Python.
+- Enable long path support. 
+- Do not add Python to PATH.
+- Confirm to install the latest version of Python.
 - Restart your PC.
 
 ![Python Setup](python-setup.png)
@@ -54,24 +53,16 @@ python -m venv .venv
 pip install zensical 
 ```
 
-### Running Zensical 
+### Running Zensical
 
-### Setting up a .gitignore
+Every time you want to run Zensical locally, you need to open the Command Prompt, navigate to the project folder, and run the following commands:
 
-- In the project folder, create a `.gitignore` file.
-    -  *Make sure this file does not have a TXT file extension.*
-- Open your `.gitignore` in Notepad or similar and paste the following:
-
-```yaml
-.venv/
-/site/ #(1)!
+```
+.venv\Scripts\activate
+zensical serve
 ```
 
-1. Starting with a backslash is necessary to specify the top-level `site` folder and avoid excluding any other folders with the same name.
-
-- Save and close the file.
-
-## Updating Zensical
+## How to update Zensical
 
 Instructions on how to update Zensical can be found on the [official website](https://zensical.org/docs/upgrade/) and the changelog is [here](https://github.com/zensical/zensical/releases).
 
@@ -87,10 +78,68 @@ To update Zensical, run:
 pip install --upgrade --force-reinstall zensical
 ```
 
+## How to create a new branch
+
+When working on a different part of the site, create a new branch.
+
+```
+cd /d Drive:\Project Folder
+.venv\Scripts\activate
+git switch main
+git pull
+git switch -c [branch-name]
+```
+
+Use the following commands for branches:
+
+- `git branch` - Display currently active branch
+- `git switch [branch]` - Switch to a different branch (**commit first**)
+
+### Merge branch into main
+
+```
+git switch main
+git pull
+git merge [branch-name]
+git push
+```
+
+### Delete branch
+
+```
+git switch main
+git pull
+git branch -d [branch-name]
+git push origin --delete [branch-name]
+```
+
+## Zensical Commands
+
+* [`zensical new`][new] - Create a new project
+* [`zensical serve`][serve] - Start local web server
+* [`zensical build`][build] - Build your site
+
+  [new]: https://zensical.org/docs/usage/new/
+  [serve]: https://zensical.org/docs/usage/preview/
+  [build]: https://zensical.org/docs/usage/build/
+
+## .gitignore Configuration
+
+The repositor already has a `.gitignore` but here are the instructions for posterity:
+
+- In the project folder, create a `.gitignore` file.
+- Open your `.gitignore` in Notepad or similar and paste the following:
+
+```yaml
+.venv/
+/site/ #(1)!
+```
+
+1. Starting with a backslash is necessary to specify the top-level `site` folder and avoid excluding any other folders with the same name.
+
+Save and close the file.
 
 ## Plugins
-
-I am using a few plugins for Zensical. The following documents their installation.
 
 ### Awesome Nav
 
@@ -99,7 +148,7 @@ See [Awesome Nav](https://zensical.org/docs/compatibility/mkdocs/plugins/#awesom
 - Enable the plugin by adding `[project.plugins.awesome-nav]` to the `zensical.toml`.
 - Create a `.nav.yml` file inside `\docs\`.
 
-This file determines the order of tabs if that feature -- `  "navigation.tabs",` -- is enabled in the `zensical.toml`.
+This file determines the order of tabs in the top navigation.
 
 ```yaml
 site:
