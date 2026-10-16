@@ -1,0 +1,4 @@
+nav:
+  - Introduction:
+    - Introduction: index.md
+    - introduction/philosophy.md 
