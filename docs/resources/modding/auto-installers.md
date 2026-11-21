@@ -1,11 +1,11 @@
 !!! abstract "Summary"
-    This page explains what auto-installers are and why they became a staple in the Skyrim modding community. There are also tips for finding a good setup and some personal recommendations.
+    This page explains what auto-installers are and why they became a staple in the Skyrim modding community. There are also tips for choosing a setup and some personal recommendations.
 
 ## What are Auto-Installers?
 
-Auto-installers are tools that can replicate a modded setup without redistributing any mod files. Instead, they automate the process of downloading the mods from their original source, installing them, and configuring them. The creators of pre-made setups distributed with auto-installers are known as **curators**.
+Auto-installers are tools that can replicate a modded setup without redistributing the mods themselves. Instead, they automate the process of downloading the mods from their original source, installing them, and configuring them. In the Bethesda modding community, auto-installers replace mod packs.
 
-In the Bethesda modding community, auto-installers replace mod packs.
+The creators of pre-made setups distributed with auto-installers are known as **curators**.
 
 ### Features
 
@@ -39,22 +39,22 @@ A few years later, Nexus Mods added a similar auto-installer feature to Vortex c
 
 ### A New Age
 
-Building a custom setup – especially a large and complex one – takes a great deal of time and effort (see my [Modding Primer](/resources/modding/primer)). But with auto-installers, pre-made setups created over months by entire teams of curators can be quickly shared with large audiences. 
+Building a custom setup – especially a large and complex one – takes a great deal of time and effort (see my [Modding Primer](/resources/modding/primer)). For a single user, this work can be hard to justify. But with auto-installers, individual setups now have large userbases and entire teams of curators spend months on individual projects.
 
-Since the rise of auto-installers, pre-made setups are becoming more and more ambitious, spawning entire communities with their own Discord servers, websites or wikis, and coverage on YouTube and Twitch. And the potential of pre-made setups shared via auto-installers is far from exhausted.
+As a result, pre-made setups are becoming more and more ambitious, growing not only in quality and complexity but spawning entire communities with their own Discord servers, websites or wikis, and coverage on YouTube and Twitch. And the potential of auto-installers is far from exhausted.
 
 ## Criticism & Responses
 
-Auto-installers remain a controversial feature in the Skyrim modding scene. The main points of criticism are:
+Despite their success, auto-installers remain a controversial feature in the Skyrim modding scene. The main points of criticism are:
 
 1. Users no longer interact with mod pages. They rarely endorse mods or leave feedback. Mod authors feel disassociated from their own community and users play with their mods without even knowing who created the content. 
 2. Curators benefit from the hard work of mod authors. Having packaged together mods created by other people, they earn money from donations that mod authors feel rightfully belong to them.
 
-These points of criticism were especially popular in the early years. However, it has since become clear that 'traditional' modding – users building custom setups and interacting with mod authors in the process – has not gone away. In fact, the engagement is greater now, in part because auto-installers have drawn a large new audience into Skyrim modding. The number of active modders has doubled since 2019.
+These arguments were especially common in the early years. However, it has since become clear that 'traditional' modding – users building custom setups and interacting with mod authors in the process – has not gone away. In fact, engagement has increased, in part because auto-installers drew a large new audience into Skyrim modding. Since 2019, the number of active Skyrim SE modders on Nexus Mods has doubled.
 
 ### Donations
 
-The second point – curators earning money – remains contentious as some curators do earn significant sums from their Wabbajack lists or Collections.
+The second point – curators earning money – remains contentious. Some curators do earn significant sums from their Wabbajack lists or Collections.
 
 However, it's important to keep in mind that most Wabbajack lists and some Collections are far more than a simple list of mods. JaySerpa, mod author and curator of the  popular [Gate to Sovngarde](https://www.nexusmods.com/games/skyrimspecialedition/collections/qdurkx) Collection, has created a video documenting [The Work Behind A Massive Skyrim Modlist](https://www.youtube.com/watch?v=Lr8SPWZJX-Q&t=63s). Like many other curators, Jay invests significant time into creating custom mods and patches for his setup, and this work is deserving of rewards like any individual mod.
 
