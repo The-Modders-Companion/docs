@@ -21,7 +21,7 @@ In the following, I will clarify my understanding of terms used in the **Bethesd
 - Members of the modding community are called **Modders**. This term can refer to *people who make mods* ^^and^^ to *people who install mods*. Naturally, these groups overlap. To distinguish between the two, it is helpful to speak of *mod authors* and *mod users* – though keep in mind that most mod authors are also mod users.
 - A **Setup** is a selection of mods put together and played by a *mod user*. Setups are often assembled to fit a certain theme like 'Dark Fantasy' or 'Vanilla Plus'. They range from small (~20 mods) to large (~2.000 mods). You can build a **custom** setup or install a **pre-made** setup (built by someone else).
 
-!!! warning "Mod Packs"
+!!! note "Mod Packs"
     Mod packs usually refer to individual mod files packaged and distributed together. Due to a tradition of strict sharing permissions, **there are no mod packs** in the Bethesda modding ecosystem. Pre-made setups are shared via manual guides or auto-installers – more on that later.
 
 ### What is 'Modding'?
@@ -30,12 +30,12 @@ The term 'Modding' is particularly ambiguous because it can refer to the process
 
 However, this distinction should not be exaggerated: ==Building a setup requires roughly the same skill set as creating mods==, albeit to a lesser degree. Not coincidentally, many mod authors start out by modifying mods for their personal setup before creating and publishing mods of their own. The transition from building a setup to creating mods is very smooth indeed.
 
-!!! note
-    In the context of the *Primer* and the rest of the *Companion*, 'modding' will refer to the process of building a setup.
+!!! tip
+    In the *Primer* and the rest of the *Companion*, 'modding' will refer to the process of building a setup.
 
 ### What are 'Mod Lists'?
 
-Another highly ambiguous term is **‘mod list’**. Some people refer to guides or their own setups as *mod lists*. Setups installed with the auto-installer Wabbajack are also officially called *mod lists*.
+Another highly ambiguous term is **'mod list'**. Some people refer to guides or their own setups as *mod lists*. Setups installed with the auto-installer Wabbajack are also officially called *mod lists*.
 
 To avoid confusion, it helps to be more specific and distinguish between *setups*, *modding guides*, and *Wabbajack lists*. The term *mod list* should ideally be limited to an actual list of (links to) mods.
 
