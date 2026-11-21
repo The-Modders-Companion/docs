@@ -2,10 +2,11 @@
 - **Assets** A variety of files provided by the game or by mods, including textures, meshes, scripts, or sound files; can be loose or packed in 🠆 BSAs; assets always belong into the 🠆 Data Folder
 - **BethINI Pie** A tool for configuring the 🠆 Game INI Files; successor to BethINI (see INI Configuration)
 - **Bethesda Softworks Archive (BSA)** An archive format specific to the 🠆 Creation Engine; contain loose 🠆 Assets and must be loaded by 🠆 Plugins with the same name
-- **Collections** A feature of 🠆 Vortex, used to auto install pre-made 🠆 Setups; alternative to 🠆 Wabbajack
+- **Collection** A feature of 🠆 Vortex, used to auto install pre-made 🠆 Setups; alternative to 🠆 Wabbajack
 - **Creation Club (CC)** An in-game shop for buying 🠆 Creations added for 🠆 Skyrim SE (see Skyrim Versions)
 - **Creations** Paid mods sold separately in the 🠆 Creation Club or as a bundle in the 🠆 Anniversary Edition DLC; not to be confused with 🠆 Verified Creations
 - **Creation Engine** The engine in which all Bethesda games since Skyrim are built (see Wikipedia); successor to the GameBryo Engine
+- **Curator** The creator of a 🠆 Wabbajack list or a 🠆 Collection.
 - **Data Folder** A folder located inside the 🠆 Root Folder; contains the 🠆 Official Master Files and the vanilla 🠆 BSAs as well as any downloaded 🠆 Creations
 - **ESL** Elder Scrolls Light; a type of 🠆 Plugin that can only load in 🠆 ESM Space using the special FE:000 🠆 Index; up to 4096 ESLs can be loaded but each ESL is limited to 2048 🠆 Records; the format was added for 🠆 Skyrim SE
 - **ESL Flag** 🠆 ESMs and 🠆 ESPs can be flagged as 🠆 ESL plugins; as a result, they adhere to the same rules as ESL plugins but retain their file extension; ESL-flagged ESPs continue to load below 🠆 ESM Space; ESL-flagged plugins are often referred to as ESLified ESPs or ESMs; only 🠆 Plugins with less than 2048 🠆 Records can be ESL-flagged
