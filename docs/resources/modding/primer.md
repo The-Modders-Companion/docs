@@ -23,7 +23,7 @@ In the following, I will clarify my understanding of terms used in the **Bethesd
 - **Mod packs** are bundles of individual mods. Due to a tradition of strict sharing permissions, ^^there are no mod packs^^ in the Bethesda modding ecosystem. Pre-made setups are shared via manual guides or auto-installers – more on that soon.
 
 !!! tip
-    Refer to the [Glossary](/resources/modding/glossary/) for explanations of  many other common terms and abbreviations.
+    Refer to the [Glossary](/resources/modding/glossary/) for explanations of  many other common terms and abbreviations. Many abbreviations can be hovered to display the full term – for example: SSE.
 
 ### What is 'Modding'?
 
@@ -36,7 +36,7 @@ However, this distinction should not be exaggerated: ==Building a setup requires
 
 ### What are 'Mod Lists'?
 
-Another highly ambiguous term is **'mod list'**. Some people refer to guides or their own setups as *mod lists*. Setups installed with the auto-installer Wabbajack are also officially called *mod lists*.
+Another highly ambiguous term is **mod list**. Some people refer to guides or their own setups as *mod lists*. Setups installed with the auto-installer Wabbajack are also officially called *mod lists*.
 
 To avoid confusion, it helps to be more specific and distinguish between *setups*, *modding guides*, and *Wabbajack lists*. The term *mod list* should ideally be limited to an actual list of (links to) mods.
 
@@ -44,7 +44,7 @@ To avoid confusion, it helps to be more specific and distinguish between *setups
 
 So much for definitions. But what does modding really look like? How difficult is it and how soon can you expect to play a modded setup? 
 
-I’ll try to answer these questions with an analogy.
+I'll try to answer these questions with an analogy.
 
 ### The Cooking Analogy
 
