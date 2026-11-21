@@ -10,7 +10,7 @@ repo_url = "https://github.com/The-Modders-Companion/docs"
 repo_name = "The-Modders-Companion/docs"
 # edit_uri = "edit/main/docs/"
 
-# extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]
@@ -56,24 +56,28 @@ logo = "lucide/flame"
 text = "Inter"
 # code = "Jetbrains Mono"
 
-[[project.theme.palette]]
-media = "(prefers-color-scheme)"
-toggle.icon = "lucide/sun-moon"
-toggle.name = "Switch to light mode"
+# [[project.theme.palette]]
+# media = "(prefers-color-scheme)"
+# toggle.icon = "lucide/sun-moon"
+# toggle.name = "Switch to light mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
+primary = "custom"
+accent = "custom"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
+# theme.palette.scheme = "tpf-light"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
-primary = "blue"
-accent = "orange"
+primary = "custom"
+accent = "custom"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
+# theme.palette.scheme = "tpf-dark"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
