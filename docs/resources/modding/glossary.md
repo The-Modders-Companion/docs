@@ -1,0 +1,36 @@
+- **Anniversary Edition DLC (AE)** A DLC published for Skyrim's 10th anniversary (11.11.2021) containing all 🠆 Creation Club content released up to that point; also sold in a bundle with 🠆 Skyrim SE as 🠆 Skyrim AE (see Skyrim Versions)
+- **Assets** A variety of files provided by the game or by mods, including textures, meshes, scripts, or sound files; can be loose or packed in 🠆 BSAs; assets always belong into the 🠆 Data Folder
+- **BethINI Pie** A tool for configuring the 🠆 Game INI Files; successor to BethINI (see INI Configuration)
+- **Bethesda Softworks Archive (BSA)** An archive format specific to the 🠆 Creation Engine; contain loose 🠆 Assets and must be loaded by 🠆 Plugins with the same name
+- **Collections** A feature of 🠆 Vortex, used to auto install pre-made 🠆 Setups; alternative to 🠆 Wabbajack
+- **Creation Club (CC)** An in-game shop for buying 🠆 Creations added for 🠆 Skyrim SE (see Skyrim Versions)
+- **Creations** Paid mods sold separately in the 🠆 Creation Club or as a bundle in the 🠆 Anniversary Edition DLC; not to be confused with 🠆 Verified Creations
+- **Creation Engine** The engine in which all Bethesda games since Skyrim are built (see Wikipedia); successor to the GameBryo Engine
+- **Data Folder** A folder located inside the 🠆 Root Folder; contains the 🠆 Official Master Files and the vanilla 🠆 BSAs as well as any downloaded 🠆 Creations
+- **ESL** Elder Scrolls Light; a type of 🠆 Plugin that can only load in 🠆 ESM Space using the special FE:000 🠆 Index; up to 4096 ESLs can be loaded but each ESL is limited to 2048 🠆 Records; the format was added for 🠆 Skyrim SE
+- **ESL Flag** 🠆 ESMs and 🠆 ESPs can be flagged as 🠆 ESL plugins; as a result, they adhere to the same rules as ESL plugins but retain their file extension; ESL-flagged ESPs continue to load below 🠆 ESM Space; ESL-flagged plugins are often referred to as ESLified ESPs or ESMs; only 🠆 Plugins with less than 2048 🠆 Records can be ESL-flagged
+- **ESM** Elder Scrolls Master; a type of 🠆 Plugin that can only load in 🠆 ESM Space; can be given the 🠆 ESL Flag
+- **ESM Space** The top part of the 🠆 Load Order above and therefore overwritten by all 🠆 ESPs
+- **ESP** Elder Scrolls Plugin; a type of 🠆 Plugin that loads below (outside of) ESM Space; can be given the 🠆 ESL Flag
+- **Game Folder** See 🠆 Root Folder
+- **Game INI Files** The 🠆 INI Files for Skyrim: Skyrim.ini, SkyrimPrefs.ini, SkyrimCustom.ini; can be modified manually or with 🠆 BethINI Pie; can be overwritten by 🠆 Plugin INIs
+- **INI Files** Plain-text configuration files for programmes; in the modding context, the term refers to the 🠆 Game INI Files or configuration files from a mod or a tool
+- **Load Order (LO)** The order in which 🠆 Plugins are loaded and overwrite each other – lower load order = higher priority
+- **Manual Guide** A written guide with instructions for building a 🠆 Setup from start to finish (see Manual Guides); also called 🠆 Modding Guide
+- **Modding Guide** See 🠆 Manual Guide
+- **Mod List** A highly ambiguous term often used to refer to a personal 🠆 Setup, 🠆 Manual Guide, or a 🠆 Wabbajack List or 🠆 Collection; I recommend using the term for actual lists of (links to) mods and using more specific alternatives for the term’s other purposes
+- **Mod Manager** An application for installing and managing mods; for 🠆 Skyrim SE, the main mod managers are Vortex and 🠆 Mod Organizer 2
+- **Mod Order (MO)** The order in which mods are loaded and overwrite each other – lower mod order = higher priority; only applies to 🠆 Mod Organizer 2
+- **Mod Organizer 2 (MO2)** A highly versatile and feature-rich 🠆 Mod Manager for Skyrim and several other games (see Mod Organizer 2); successor to Mod Organizer (MO)
+- **Nexus Mods** A website that provides hosting space for mods for a variety of games; owned by the same company (Black Tree Gaming Ltd) that develops 🠆 Vortex
+- **Official Master Files** A set of five 🠆 ESMs that contain the bulk of the vanilla game data: Skyrim.esm, Update.esm, Dawnguard.esm, HearthFires.esm, Dragonborn.esm; hard-coded to always load at the top of the 🠆 Load Order
+- **Plugins** In the modding context: Files specific to the 🠆 Creation Engine with the file extensions 🠆 ESP, 🠆 ESL, or 🠆 ESM; contain game data and are required to load 🠆 BSAs; must be located in the 🠆 Data Folder; can be used to load 🠆 Plugin INIs
+- **Plugin INIs** Custom 🠆 INI Files that can be loaded by 🠆 Plugins to overwrite certain settings from the 🠆 Game INI Files
+- **Records** Data format in 🠆 Plugins
+- **Root Folder** The folder in which Skyrim is installed, contains SkyrimSE.exe and SkyrimSELauncher.exe as well as the 🠆 Data Folder; sometimes called 🠆 Game Folder
+- **Setup** A selection of mods installed via a 🠆 Mod Manager, often assembled to fit a certain theme
+- **Skyrim AE (SAE)** Skyrim Anniversary Edition; the 2021 bundle of 🠆 Skyrim SE and the 🠆 Anniversary Edition DLC (see Skyrim Versions)
+- **Skyrim SE (SSE)** Skyrim Special Edition; the 2016 remaster of the game (see Skyrim Versions); included the 64bit upgrade to the 🠆 Creation Engine and added the 🠆 ESL format and the 🠆 Creation Club
+- **Verified Creations (VC)** Paid mods sold on Bethesda.net; successor to 🠆 Creations
+- **Vortex** A simplified 🠆 Mod Manager developed by 🠆 Nexus Mods
+- **Wabbajack (WJ)** A tool that auto-installs 🠆 Setups that were built in 🠆 Mod Organizer 2; alternative to 🠆 Collections

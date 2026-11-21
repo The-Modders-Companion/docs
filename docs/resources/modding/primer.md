@@ -20,9 +20,10 @@ In the following, I will clarify my understanding of terms used in the **Bethesd
 - **Mods** are user-made modifications for a game. Some are standalone and some depend on other mods which must be installed first.
 - Members of the modding community are called **Modders**. This term can refer to *people who make mods* ^^and^^ to *people who install mods*. Naturally, these groups overlap. To distinguish between the two, it is helpful to speak of *mod authors* and *mod users* – though keep in mind that most mod authors are also mod users.
 - A **Setup** is a selection of mods put together and played by a *mod user*. Setups are often assembled to fit a certain theme like 'Dark Fantasy' or 'Vanilla Plus'. They range from small (~20 mods) to large (~2.000 mods). You can build a **custom** setup or install a **pre-made** setup (built by someone else).
+- **Mod packs** are bundles of individual mods. Due to a tradition of strict sharing permissions, ^^there are no mod packs^^ in the Bethesda modding ecosystem. Pre-made setups are shared via manual guides or auto-installers – more on that soon.
 
-!!! note "Mod Packs"
-    Mod packs usually refer to individual mod files packaged and distributed together. Due to a tradition of strict sharing permissions, **there are no mod packs** in the Bethesda modding ecosystem. Pre-made setups are shared via manual guides or auto-installers – more on that later.
+!!! tip
+    Refer to the [Glossary](/resources/modding/glossary/) for explanations of  many other common terms and abbreviations.
 
 ### What is 'Modding'?
 

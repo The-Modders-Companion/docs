@@ -6,7 +6,7 @@ The *Companion* is ^^not^^ a guide to creating mods.
 
 Before we proceed, **I strongly recommend you read my Primer on modding Skyrim**. The Primer explains important terminology and outlines different approaches to acquiring a custom setup. By the end of the article, you will be able to make an informed choice on how to proceed – with the *Companion* or elsewhere.
 
-:arrow_right: **[Read the Primer](introduction/primer.md)**
+:arrow_right: **[Read the Primer](/resources/modding/primer)**
 
 !!! tip
     When a link sends you to a different part of the website, there are usually links that take you back or send you to the next relevant page. You shouldn't need to keep multiple tabs open.
