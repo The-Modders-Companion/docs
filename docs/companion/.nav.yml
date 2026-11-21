@@ -1,3 +1,5 @@
 nav:
   - Introduction: index.md
-  - Modding Skyrim - A Primer: introduction/primer.md 
+  - Modding Skyrim - A Primer: introduction/primer.md
+  - Foundation:
+    - Step 1: foundation/step-1.md

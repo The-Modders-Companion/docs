@@ -4,12 +4,12 @@ Modding, as you may know, is a rabbit hole of staggering proportions. With over 
 
 But with that freedom of choice comes a certain complexity. How do I find a 'good' mod in this massive catalogue? How do I know if my mods are compatible with each other? What do I do if a mod doesn't seem to work as intended?
 
-Finding answers to these questions is often remarkably difficult for newcomers. Mod descriptions are littered with obscure acronyms, seemingly inexplicable issues abound, and reliable information is hard to come by. There are numerous unspoken rules and assumptions that are impossible to parse. As a result, many are frustrated and give up.
+Finding answers to these questions can be remarkably difficult. Mod descriptions are littered with obscure acronyms, seemingly inexplicable issues abound, and reliable information is hard to come by. There are numerous unspoken rules and assumptions that are impossible to parse. As a result, many are frustrated and give up.
 
 This article was written to prevent some of that frustration and help you find an entry-point to the hobby. In the following, I will go over basic terminology, explain the differences between custom and pre-made setups, and set realistic expectations by using my patented Cooking Analogy™. In a nutshell, ==there are different ways to acquire a playable modded setup and it's important to choose the one that suits you best==. By the end of the article, you will be able to make an informed decision about how you want to approach modding Skyrim.
 
 !!! failure "Rule # 1: You must read."
-    Regardless of which route you take, there will be lots of reading – be it mod descriptions, tutorials, or gameplay guides. Skimming is fine if you are doing it carefully. But for a successful modding experience you cannot skip the reading altogether.
+    At least some reading is involved in every approach – be it mod descriptions, tutorials, or gameplay guides. Skimming is fine if you are doing it carefully. But for a successful modding experience you cannot skip the reading altogether.
    
 ## Terminology
 

@@ -22,7 +22,7 @@ The framework that structures the *Companion* is my own. I do not claim to have 
 
 As the guide is a work in progress (see the next section for details), so is the structure.
 
-- **Foundation:** This section focuses on the initial setup and creation of a solid workbase to build on afterwards. The *Foundation* is the most strictly guided part and should come in handy for anyone looking to build a new setup from scratch.
+- **Foundation:** This section focuses on the initial setup and creation of a solid workbase to build on afterwards. The *Foundation* is the most linear part and should come in handy for anyone looking to build a new setup from scratch.
 - **Modding Basics:** This section provides an interactive introduction to basic modding knowledge, using the workbase created previously. Following this section is optional but highly recommended.
 - **The Sandbox:** This section provides guidance on the real meat of the setup - selecting, testing, and modifying mods.
 
@@ -34,6 +34,6 @@ As the guide is a work in progress (see the next section for details), so is the
 
 **I'm more interested in making mods than building a setup. Where do I begin?**
 
-Actually, the *Companion* is a pretty good starting point for that, too! I'd recommend following at least the *Foundation* section to get a proper workbase set up with all the most important tools. This is very useful for mod creation – plus the section contains a lot of basic modding knowledge that more advance mod creation tutorials often do not cover.
+Actually, the *Companion* is a pretty good starting point for that, too! I'd recommend following at least the *Foundation* to get a proper workbase set up with all the most important tools. This is very useful for mod creation – plus the section contains a lot of basic modding knowledge that more advance mod creation tutorials often do not cover.
 
 :construction: I am planning to add a resource page with links to mod creation guides later on. A link to that page will be added here.
