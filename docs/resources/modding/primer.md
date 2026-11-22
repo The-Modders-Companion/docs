@@ -1,3 +1,12 @@
+---
+icon: lucide/compass
+---
+
+!!! abstract "Summary"
+     This page provides a short introduction to Skyrim modding. I establish my three rules for modding Skyrim, introduce important terms, and use my Cooking Analogy™ to properly set expectations. In the end, you choose how to proceed.
+
+## Down the Rabbit Hole
+
 So, you want to get into modding Skyrim. Welcome!
 
 Modding, as you may know, is a rabbit hole of staggering proportions. With over 140.000 Skyrim mods available on the largest site, Nexus Mods, the possibilities for customising the game are practically endless.
@@ -89,14 +98,12 @@ But while I keep insisting that modding takes effort, it is *not* rocket science
 
 And so we cycle back to the initial questions: How soon do you want to play and how much time are you willing to invest?
 
-1. If you are looking to mess around with Skyrim mods for an evening, go install [Vortex](https://www.nexusmods.com/vortex), download some mods, and have fun!
-2. If you are interested in playing a complex setup but don’t want to pick up a new hobby, check out the [Wabbajack Gallery](https://www.wabbajack.org/gallery?selectedGame=Skyrim%20Special%20Edition) or the [Nexus Collections](https://www.nexusmods.com/games/skyrimspecialedition/collections?collectionStatus=listed&sort=downloads) and install something you like. Don't forget to look for trailers and reviews!
-3. If you want to learn more about modding but aren't ready to go off on your own just yet, take a look at my list of recommended [Manual Guides].
-4. If you are determined to build your own (complex) setup, prepare yourself for a long but rewarding journey and lots of trial-and-error. The Modder's Companion is here to help you on that endeavour.
-
-If you are still unsure, I encourage you to try a Wabbajack list or Collection first. Playing a pre-made setup will give you a better idea of the mods that are available and how you can combine them to transform the game. Afterwards, you can always return to this point and continue with a guide or strike out on your own.
-
 !!! failure "Rule #3: Know what you want."
     You will save yourself a lot of frustration if you are clear about your own goals and expectations. Don’t spend hours tinkering and troubleshooting if all you want is to play the game! After all, your time is precious and you should not waste it.
 
-:arrow_right: **[Continue with *The Modder's Companion*](/companion/#the-companion)**
+1. If you are looking to mess around with Skyrim mods for an evening, go install [Vortex](https://www.nexusmods.com/vortex), download some mods, and have fun!
+2. If you are interested in playing a complex setup but don't want to pick up a new hobby, check out my introduction to [Auto-Installers](/resources/modding/auto-installers) and install a pre-made setup.
+3. If you want to learn more about modding but aren't ready to go off on your own just yet, take a look at my list of recommended [Manual Guides](/resources/modding/manual-guides).
+4. If you are determined to build your own (complex) setup, prepare yourself for a long but rewarding journey. The [Modder's Companion](/companion/#the-companion) is here to help you in that endeavour. 
+
+If you are still unsure, I encourage you to try a Wabbajack list or Collection first. Playing a pre-made setup will give you a better idea of the mods that are available and how you can combine them to transform the game. Afterwards, you can always return to this point and continue with a manual guide or the *Companion*.

@@ -1,3 +1,7 @@
+---
+icon: lucide/wand-sparkles
+---
+
 !!! abstract "Summary"
     This page explains what auto-installers are and why they became a staple in the Skyrim modding community. There are also tips for choosing a setup and some personal recommendations.
 
@@ -6,6 +10,8 @@
 Auto-installers are tools that can replicate a modded setup without redistributing the mods themselves. Instead, they automate the process of downloading the mods from their original source, installing them, and configuring them. In the Bethesda modding community, auto-installers replace mod packs.
 
 The creators of pre-made setups distributed with auto-installers are known as **curators**.
+
+> Just looking for a setup to play? Jump ahead to [Finding Setups](/resources/modding/auto-installers/#finding-setups).
 
 ### Features
 
@@ -17,7 +23,7 @@ All auto-installers share the following features:
 - Bundle additional files (like custom configs) into the installation file.
 - Playable with few or no extra steps after installation.
 
-For the differences between available auto-installers, check the [Comparison](/resources/modding/auto-installers#comparison) section below.
+For the differences between the two big auto-installers, **Wabbajack** and **Collections**, check the [Comparison](/resources/modding/auto-installers#comparison) section below.
 
 ## A Brief History
 
@@ -72,7 +78,7 @@ This section compares the two major auto-installers: **Wabbajack** and **Collect
 The key difference between **Wabbajack** and **Collections** is the mod manager they are used with.
 
 - Wabbajack is a standalone tool that installs a Mod Organizer 2 instance for each individual WJ list. Every instance is completely separate.
-- Collections is integrated into the official Nexus Mods mod manager, Vortex. Collections are installed into the same Vortex instance and separated by profiles.
+- Collections is integrated into the official Nexus Mods mod manager, Vortex. Collections are installed into the same Vortex instance and can be separated by profiles.
 
 While all mod managers fundamentally do the same thing – place files into the correct folders – MO2 and Vortex differ in various ways. Simply put, MO2 is geared toward advanced use whereas Vortex is built to be beginner-friendly.
 

@@ -76,7 +76,7 @@ scheme = "slate"
 primary = "custom"
 accent = "custom"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to system preference"
+toggle.name = "Switch to light mode"
 # theme.palette.scheme = "tpf-dark"
 
 [[project.extra.social]]

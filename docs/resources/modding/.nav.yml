@@ -1,5 +1,7 @@
 nav:
-  - Modding Skyrim - A Primer: primer.md
+  - Modding Skyrim: primer.md
+  - Skyrim Versions: skyrim-versions.md
+  - Folder Structure: folder-structure.md
   - Manual Guides: manual-guides.md
   - Auto-Installers: auto-installers.md
   - Glossary: glossary.md

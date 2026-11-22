@@ -6,7 +6,7 @@
   --md-accent-fg-color--light:          #d68400;
   --md-accent-fg-color--dark:           #d68400;
   --md-accent-fg-color--transparent:    hsl(37, 50%, 95%);
-  --md-typeset-mark-color:              #9cdcf8;
+  --md-typeset-mark-color:              #ffe5bb;
 }
 
 [data-md-color-scheme="slate"] {

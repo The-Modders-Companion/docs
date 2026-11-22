@@ -1,5 +1,9 @@
+---
+icon: lucide/wrench
+---
+
 !!! abstract "Summary"
-    This page explains what manual guides are and how their role in Skyrim modding has been changed by the rise of auto-installers. I also list my guide recommendations as well as guides that should not be used.
+    This page explains what manual guides are and how their role in Skyrim modding has been changed by the rise of auto-installers. I also list my personal recommendations.
 
 ## What are Manual Guides?
 
@@ -11,75 +15,91 @@ There are numerous 'Skyrim Modding Guides' floating around on the internet, so i
 
 As a general rule, any self-proclaimed 'guide' that does not include file modification, mod and load order instructions, and custom patches can be disregarded. These steps are essential to building a stable, high quality setup.
 
-### Manual Guides before Auto Installers
+### Manual Guides in the Age of Auto Installers
 
-In the olden days, manual guides were the only acceptable method to share a setup. Due to restrictive sharing permissions for mods, mod packs were never an option in the Bethesda modding community. This is not to say that mod packs for Skyrim do not exist, but they are regarded as unethical ('mod piracy') and therefore shunned. For those who could not or did not want to invest the time into building a custom setup, following a manual guide was the only alternative.
+Until 2019, manual guides were the only acceptable method to share a setup from one PC to another. Some mod packs did exist, but they were (and still are) shunned because they do not comply with mod sharing permissions. These tend to be quite strict in the Bethesda modding community. [Auto-installers](/resources/modding/auto-installers) solved that problem by automatically downloading mods from their original source rather than redistributing the files directly.
 
-This changed with the advent of auto-installers in 2019. Because literally repacking mods into mod packs was impossible, the idea was born to build a framework that could automate the process of downloading, installing, and configuring mods. The first attempt, [Automaton](https://github.com/metherul/Automaton), was unsuccessful, probably due in part to its use of the controversial term 'mod pack'. Halgari, one of the contributors to Automaton, then split off to develop his own tool: [Wabbajack](https://www.wabbajack.org/). Positioning itself as an auto-installer for 'mod lists', Wabbajack overcame the initial suspicion and hostility, and has since established itself as a staple in the modding community. A few years later, Nexus Mods added a similar auto-installer feature to Vortex called Collections.
+> For more information on the rise of auto-installers, check my [brief history](/resources/modding/auto-installers/#a-brief-history).
 
-Manual Guides after Auto Installers
-Today, auto installers are very popular. The number of pre-made setups for Wabbajack or Collections increases every day and the feature will clearly play a major role in the modding ecosystem going forward. Anyone who wishes to play modded Skyrim without spending days and weeks on building a setup can now simply use an auto installer. 
+Today, auto-installers are very popular. The number of pre-made setups for Wabbajack or Collections increases every day and the feature will clearly play a major role in the modding ecosystem going forward. Anyone who wishes to play modded Skyrim without spending days and weeks on building a setup can now simply use an auto-installer. 
 
-Where does this leave manual guides? Their main purpose – to share setups – has been superseded by auto installers which do the same thing but much faster. But another aspect of manual guides has not been replaced by auto installers: the teaching element. Given the lack of a proper exhaustive beginner’s guide, manual guides are by far the best introduction to modding knowledge and the imprecise science of building a custom setup. Auto installers have not changed this.
+Where does this leave manual guides? Their main purpose – to share setups – has been superseded by auto-installers which do the same thing but much faster. But another aspect of manual guides has not been replaced by auto-installers: the teaching element. In the absence of a proper exhaustive beginner's guide, manual guides are by far the best introduction to modding knowledge and the imprecise science of building a custom setup. Auto-installers have not changed this.
 
-The shift is ultimately beneficial to all sides. Users who have no desire to learn anything about modding used to be frustrated by the length and complexity of manual guides – but they can simply use auto installers now. Meanwhile, manual guides now target only users who do wish to learn. Their writers can thus lean into the complexity and the teaching.
+This development is ultimately beneficial to all sides. Users who have no desire to learn anything about modding used to be frustrated by the length and complexity of manual guides. They can simply use auto-installers now. Meanwhile, manual guides now target only users who *do* wish to learn. Their writers can thus lean into the complexity and the teaching.
 
-Recommended Guides
+## Recommended Guides
+
 This section lists a number of guides that I can whole-heartedly recommend.
 
 Please not that my list is not exhaustive and there may be other excellent guides out there that I am unaware of. Feel free to shoot me a DM on Nexus or Discord if you know of a guide that should be included here.
 
-Lexy’s Legacy of the Dragonborn
-Lexy’s Legacy of the Dragonborn is one of the oldest and most extensive modding guides for Skyrim SE. It is built around the popular mod Legacy of the Dragonborn and adds a great deal of new content in addition to overhauled gameplay (mostly EnaiRim) and visual improvements. Lexy and her team have worked on this setup for many years and it has earned its excellent reputation. Do note that Lexy’s LOTD was not written for beginners. The guide is complex and requires some pre-existing modding knowledge.
+### Lexy's Legacy of the Dragonborn
 
-Official Website
-Load Order Library
-Discord
+**Lexy's Legacy of the Dragonborn** (Lexy's LOTD) is one of the oldest and most extensive modding guides for Skyrim SE. It is built around the popular mod [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) and adds a great deal of new content in addition to overhauled gameplay (mostly [EnaiRim](https://www.nexusmods.com/profile/EnaiSiaion/mods)) and visual improvements. Lexy and her team have worked on this setup for many years and it has earned its excellent reputation.
 
-Step Skyrim Special Edition Guide
-The Step Guide is staple in the Skyrim (SE) modding scene with a long history and a reputation for excellence. The guide produces a very thorough and polished mid-size setup, focusing on improvements over radical change. STEP contains well-tested instructions for the latest modding tools and procedures, which makes it a valuable resource for any modder. Accessibility for beginners is fair.
+Do note that Lexy's LOTD was not written for beginners. The guide is complex and requires some pre-existing modding knowledge.
 
-Official Website
-Forum
+- [Official Website](https://lexyslotd.com/)
+- [Load Order Library](https://loadorderlibrary.com/lists/lexys-lotd-a-skyrim-modding-guide)
+- [Discord](https://discord.gg/xj7JcZ7)
 
-The Northern Experience
-The Northern Experience is another veteran in the scene and provides a large and polished setup. It takes inspiration from the classic RPG series Gothic and adds a great deal of new content in addition to gameplay changes. The setup is also available as a Wabbajack list and as a Collection.
+### Step Skyrim Special Edition Guide
 
-Nexus Page
-Wabbajack Version
-Collection Version
-Discord
+The **Step Guide** (Step) is staple in the Skyrim modding scene with a long history and a reputation for excellence. The guide produces a very thorough and polished mid-size setup, focusing on improvements over radical change. Step contains well-tested instructions for the latest modding tools and procedures, which makes it a valuable resource for any modder.
 
-A Dragonborn’s Fate
-A Dragonborn’s Fate is a comparatively short and highly accessible guide with instructions for a light ‘vanilla-plus’ setup. There is some customisability in the form of an optional addon. The setup is also available on Wabbajack for auto installation.
+The Step guide is suitable for beginners.
 
-Official Website
-Discord
+- [Official Website](https://stepmodifications.org/wiki/SkyrimSE:2.3)
+- [Forum](https://stepmodifications.org/forum/)
 
-Skyrim Unification Project (SUP)
-The Skyrim Unification Project is a newer and very ambitious project by ra2phoenix, a long-time contributor to Lexy’s LOTD. SUP is noteworthy for its thorough patching and focus on modularity as well as the large size of the resulting setup. The project is available as a Wabbajack list and as a manual guide. Compared to other guides, SUP provides less detailed instructions and is better suited for experienced modders.
+### The Northern Experience
 
-Official Website
-Load Order Library
-Discord
+**The Northern Experience** (TNE) is another veteran in the scene and provides a large and polished setup. The setup takes inspiration from the classic RPG series Gothic and adds a great deal of new content in addition to gameplay changes.
 
-Other Guides
+TNE is also available as a Wabbajack list.
+
+- [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/23894) (manual guide)
+- [Wabbajack](https://www.nexusmods.com/skyrimspecialedition/mods/69147)
+- [Discord](https://discord.gg/fuhsnph)
+
+### A Dragonborn's Fate
+
+**A Dragonborn's Fate** (DBF) is a comparatively short and highly accessible guide with instructions for a light 'vanilla-plus' setup. There is some customisability in the form of an optional addon.
+
+The setup is also available on Wabbajack for auto installation.
+
+- [Official Website](https://dragonbornsfate.moddinglinked.com/index.html)
+- [Discord](https://discord.gg/S99Ary5eba)
+
+### Skyrim Unification Project
+
+The **Skyrim Unification Project** (SUP) is a newer and very ambitious project by ra2phoenix, mod author and long-time contributor to Lexy's LOTD. SUP is noteworthy for its thorough patching and focus on modularity as well as the large size of the resulting setup. Compared to other guides, SUP provides less detailed instructions and is better suited for experienced modders.
+
+The project is available as a Wabbajack list and as a manual guide. 
+
+- [Official Website](https://skyrimunificationproject.github.io/)
+- [Load Order Library](https://loadorderlibrary.com/lists/skyrim-unification-project)
+- [Discord](https://discord.gg/UAhtyb2XuK)
+
+## Other Guides
+
 This section lists guides that I cannot recommend, either because I am not familiar with them or because I believe they are not usable.
 
-The Phoenix Flavour (TPF)
-The Phoenix Flavour is – important disclaimer – my own guide. At present, TPF is very out-of-date and should not be used. A major rewrite is in progress.
+### The Phoenix Flavour
 
-Official Website
+**The Phoenix Flavour** (TPF) is – important disclaimer – my own guide. At present, TPF is very out-of-date and should not be used.
 
-NOLVUS
-NOLVUS is a newer and very popular guide with a mixed history. Early versions lacked custom patching but this seems to have changed. The large setup is available as a manual guide and as an auto installer, apparently in multiple different versions.
+### NOLVUS
 
-To be clear, I am not officially recommending against using NOLVUS.  I simply find the website too obnoxious to give it a proper read-through. I am also puzzled by the author’s decision to host nothing on the Nexus and create a proprietary auto installation tool instead of using Wabbajack.
+NOLVUS is a newer and very popular guide with a mixed history. Early versions lacked custom patching but this seems to have changed. The large setup is available as a manual guide and as an auto-installer, apparently in multiple different versions.
 
-Official Website
-Load Order Library
+To be clear: I am not recommending against using NOLVUS. I simply find the website too obnoxious to give it a proper read-through. I am also puzzled by the author's decision to host nothing on the Nexus and create a proprietary auto installation tool instead of simply using Wabbajack (though I acknowledge that the NOLVUS launcher offers some interesting features that no other auto-installer has).
 
-Sinitar’s Skyrim Ultimate Modding Guide
-Sinitar’s Skyrim Ultimate Modding Guide should absolutely not be used under any circumstances. If you’re curious why, I’ve already gone into excruciating detail in this essay.
+- [Official Website](https://www.nolvus.net/)
+- [Load Order Library](https://loadorderlibrary.com/lists/nolvus-awekening-redux)
 
-Official Website
+### Sinitar's Skyrim Ultimate Modding Guide
+
+Sinitar's Skyrim Ultimate Modding Guide should absolutely not be used under any circumstances. If you're curious why, I've already gone into excruciating detail [in this essay](https://docs.google.com/document/d/1F1-6lF8dI4i2Zz8iT-bv_Ci1VO9MSU4MiSUrT5JqgHA/edit?tab=t.0#heading=h.6al1rti6xsee).
+
+- [Official Website](https://www.sinitargaming.com/skyrim_se.html)

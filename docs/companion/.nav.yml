@@ -2,3 +2,5 @@ nav:
   - Introduction: index.md
   - Foundation:
     - Initial Setup: foundation/step-1.md
+    - Mod Organizer 2: foundation/step-2.md
+    - Script Extender: foundation/step-3.md

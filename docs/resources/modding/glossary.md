@@ -1,3 +1,7 @@
+---
+icon: lucide/book-a
+---
+
 - **Anniversary Edition DLC (AE)** A DLC published for Skyrim's 10th anniversary (11.11.2021) containing all 🠆 Creation Club content released up to that point; also sold in a bundle with 🠆 Skyrim SE as 🠆 Skyrim AE (see Skyrim Versions)
 - **Assets** A variety of files provided by the game or by mods, including textures, meshes, scripts, or sound files; can be loose or packed in 🠆 BSAs; assets always belong into the 🠆 Data Folder
 - **BethINI Pie** A tool for configuring the 🠆 Game INI Files; successor to BethINI (see INI Configuration)
